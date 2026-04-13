@@ -9,10 +9,13 @@ to candidates instantly via email.
 
 ## Live Demo
 https://raj61.app.n8n.cloud/form/7c365a42-a13c-41fd-83a7-f37fda8fe7d3
-This is the type of permenant link that will be generated. This may not work after free Open AI API credit expires.
+
+_This is the type of permenant link that will be generated. This may not work after free Open AI API credit expires._
 
 ## Demo Video
-https://youtu.be/LVA8YLkgFj0
+YouTube - https://youtu.be/LVA8YLkgFj0
+
+LinkedIn - https://www.linkedin.com/posts/yespriyanshu_n8n-openai-resume-ugcPost-7448505828871143424-sVar/
 
 ## How it works
 1. Candidate submits name, email and resume via a public form.
@@ -44,4 +47,5 @@ https://youtu.be/LVA8YLkgFj0
 
 ## Author
 Priyanshu Raj
-[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/yespriyanshu))
+
+[LinkedIn](https://www.linkedin.com/in/yespriyanshu)
