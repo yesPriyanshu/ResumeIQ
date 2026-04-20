@@ -29,7 +29,7 @@
       ],
       "id": "d56906c2-7167-4eaf-97b9-90784871eb78",
       "name": "On form submission",
-      "webhookId": "7c365a42-a13c-41fd-83a7-f37fda8fe7d3"
+      "webhookId": "your ID"
     },
     {
       "parameters": {
@@ -101,8 +101,8 @@
       "name": "Message a model",
       "credentials": {
         "openAiApi": {
-          "id": "D1ypX3sAG18zVJv7",
-          "name": "n8n free OpenAI API credits"
+          "id": "Your ID",
+          "name": "API Name"
         }
       }
     },
@@ -124,7 +124,7 @@
       "webhookId": "72577d92-9c26-4fc9-b621-adf5117152a0",
       "credentials": {
         "gmailOAuth2": {
-          "id": "jUhjRPwsono44K53",
+          "id": "GMAIL ID",
           "name": "Gmail OAuth2 API"
         }
       }
